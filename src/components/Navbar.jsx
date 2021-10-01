@@ -31,7 +31,7 @@ function Navbar() {
                     className="nav-link"
                     to="/favlist"
                   >
-                    FavList
+                    Your Favorites
                   </NavLink>
                 </li>
               </ul>
